@@ -17,6 +17,10 @@ nav .a-icon i {
   cursor: pointer;
 }
 
+.nav-item i {
+  font-size: 22px;
+}
+
 .side-nav {
   width: 250px;
   background: #272c4a;
@@ -43,6 +47,10 @@ nav .a-icon i {
 .navbar-box {
   width: 250px;
   padding: 20px;
+}
+
+.navbar-box img {
+  height: 30px;
 }
 
 main {
